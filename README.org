@@ -10,4 +10,4 @@ gitのテストです　伊藤
 
 gitのテストです　山田
 
-commit 追加
+commit 追加テスト
